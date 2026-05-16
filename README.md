@@ -8,7 +8,8 @@ Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format a
 ## Demo
 
 Place the animated image of your project demo here!
-<img width="1080" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/53d709f8-4b36-4fe7-9d28-148cf55d1290" />
+<img width="1000" height="625" alt="castle_tower_defense_demo" src="https://github.com/user-attachments/assets/161f4a34-129c-4d05-8c34-a70fbec35d11" />
+
 
 
 ## UML Diagram
