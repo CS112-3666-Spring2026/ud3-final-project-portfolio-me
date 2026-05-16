@@ -5,6 +5,8 @@ Feel free to edit this file to contain a description of your project, as well as
 
 Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format appropriately. 
 
+My project, Castle Tower Defense, is a small tower defense game built in Javafx. It follows the format of most tower defense games, with placeable towers, tower upgrades, and waves of different enemies. It utilizes abstract classes, inheritance, and a couple of inside classes as well.
+
 ## Demo
 
 Place the animated image of your project demo here!
