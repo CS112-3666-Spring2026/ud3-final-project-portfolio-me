@@ -8,11 +8,17 @@ Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format a
 ## Demo
 
 Place the animated image of your project demo here!
+<img width="1080" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/53d709f8-4b36-4fe7-9d28-148cf55d1290" />
+
 
 ## UML Diagram
 
 Place your UML diagram image here! Make sure they're updated to be accurate to your final project!
 
+https://imgur.com/a/an4skEd
+
 ## Wireframe
 
 Place your wireframe image(s) here! Make sure they're updated to be accurate to your final project!
+
+https://drive.google.com/file/d/1cHggSgxt99dakGQu2Q-7fKVyrFNeNK6r/view?usp=drive_link
