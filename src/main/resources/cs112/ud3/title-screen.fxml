@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<VBox alignment="CENTER"
+      maxHeight="-Infinity"
+      maxWidth="-Infinity"
+      minHeight="-Infinity"
+      minWidth="-Infinity"
+      prefHeight="600.0"
+      prefWidth="800.0"
+      spacing="20.0"
+      style="-fx-background-color: lightgrey;"
+      xmlns="http://javafx.com/javafx/17.0.12"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="cs112.ud3.TitleController">
+    <Label text="Castle Tower Defense">
+        <font>
+          <Font name="System Bold" size="32.0"/>
+        </font>
+    </Label>
+    <Label text="DEFEND YOUR CASTLE FROM INCOMING ENEMIES">
+        <font>
+          <Font size="16.0"/>
+        </font>
+    </Label>
+    <Button fx:id="startButton" mnemonicParsing="false" onAction="#onStartButtonClick" prefWidth="150.0"
+            text="Start Game"/>
+    <Button fx:id="howToPlayButton" mnemonicParsing="false" onAction="#onHowToPlayButtonClick" prefWidth="150.0"
+            text="How to Play"/>
+    <Button fx:id="exitButton" mnemonicParsing="false" onAction="#onExitButtonClick" prefWidth="150.0" text="Exit"/>
+</VBox>
